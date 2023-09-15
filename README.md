@@ -4,7 +4,7 @@ Wednesday 6th September 2023, I was offered an internship role (Data Analysis) a
 <h2 align ='center'> About MeriSkill
 </h2>
 <p align="center">
-  <img src="https://github.com/Gbekoilias/MeriSkills/blob/main/Week%201/Meri%20Skill%20Logo.jpg" alt="Description of the image" height = 600 width = 800>
+  <img src="https://github.com/Gbekoilias/MeriSkills/blob/main/Week%201/Meri%20Skill%20Logo.jpg" alt="Description of the image" height = 800 width = 800>
 </p>
 
 Meri Skill is a non-profit organization in India that aims to empower women and girls through skills training and livelihood opportunities. It was founded in 2012 by Meri A. Aaron Walker, a communication strategist with a passion for women's empowerment.
