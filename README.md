@@ -1,21 +1,12 @@
 <h1 align = 'center'> MeriSkill Internship
 </h1>
-
-<style>
-        /* Center-align the image */
-        .center-align {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* This centers it vertically as well */
-        }
-    </style>
 Wednesday 6th September 2023, I was offered an internship role (Data Analysis) at MeriSkill.
 <h2 align ='center'> About MeriSkill
 </h2>
-<div class="center-align">
-        <img src="https://github.com/Gbekoilias/MeriSkills/blob/main/Week%201/Meri%20Skill%20Logo.jpg" alt="Description of the image">
-    </div>
+<p align="center">
+  <img src="https://github.com/Gbekoilias/MeriSkills/blob/main/Week%201/Meri%20Skill%20Logo.jpg" alt="Description of the image">
+</p>
+
 Meri Skill is a non-profit organization in India that aims to empower women and girls through skills training and livelihood opportunities. It was founded in 2012 by Meri A. Aaron Walker, a communication strategist with a passion for women's empowerment.
 
 Meri Skill offers a variety of skills training programs in areas such as sewing, tailoring, embroidery, handicrafts, and computer literacy. These programs are designed to help women and girls develop the skills they need to start their own businesses or find employment in high-growth sectors.
