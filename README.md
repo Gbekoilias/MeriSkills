@@ -29,3 +29,61 @@ Some of the key tasks that interns can expect to perform include:
 * Interns will also have the opportunity to learn about the different tools and technologies that are used in data analysis, such as Python, SQL, and Tableau.
 
 The Meri Skill data analysis internship is a great opportunity for students and recent graduates who are interested in pursuing a career in data analysis. The internship will provide them with the skills and experience they need to be successful in this rapidly growing field.
+
+<h2 align ='center'> Project done in the Internship
+</h2>
+**Project 1: Sales Data Analysis**
+
+**Purpose:** 
+The purpose of this project is to analyze sales data to extract valuable insights that can inform business decision-making. It involves identifying sales trends, top-selling products, and key revenue metrics.
+
+**Description:**
+In "Sales Data Analysis," you will work with a substantial sales dataset to explore various aspects of the business. You'll analyze sales trends over time, determine which products are top sellers, calculate essential revenue metrics like total sales and profit margins, and create visualizations to effectively communicate your findings. This project demonstrates your ability to manipulate and extract insights from large datasets, enabling you to make data-driven recommendations to optimize sales strategies.
+
+**Expected Skills to Gain:**
+- Data cleaning and preprocessing.
+- Exploratory data analysis.
+- Trend analysis.
+- Identifying key performance indicators (KPIs) for sales.
+- Data visualization.
+- Presentation of insights to support decision-making.
+
+**Project 2: Diabetes Patients**
+
+**About Dataset:**
+This project focuses on a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Its objective is to predict whether a patient has diabetes based on diagnostic measurements. The dataset includes specific constraints such as the inclusion of females at least 21 years old of Pima Indian heritage.
+
+**Expected Skills to Gain:**
+- Data preprocessing and cleaning.
+- Feature selection.
+- Machine learning classification.
+- Model evaluation and validation.
+- Predictive analytics.
+- Understanding of medical data analysis.
+
+**Project 3: HR Analytics**
+
+**Tasks to Perform:**
+
+**Data Cleaning:**
+- Deleting redundant columns.
+- Renaming columns for clarity.
+- Dropping duplicates.
+- Cleaning individual columns (e.g., handling outliers).
+- Removing NaN (missing) values from the dataset.
+- Additional data transformations as needed.
+
+**Data Visualization:**
+- Creating a correlation map for all numeric variables.
+- Analyzing variables related to employee turnover (Overtime, Marital Status, Job Role, Gender, Education Field, Department, Business Travel).
+- Investigating relationships (e.g., between Overtime and Age, Total Working Years, Education Level, Number of Companies Worked, Distance from Home).
+
+**Expected Skills to Gain:**
+- Data cleaning and transformation.
+- Data visualization.
+- Exploratory data analysis (EDA).
+- Correlation analysis.
+- Understanding HR-related metrics.
+- Presentation of HR insights to inform decision-making.
+  
+Each of these projects offers a unique opportunity to gain valuable skills in data analysis, machine learning, and data-driven decision-making. Whether it's optimizing sales strategies, predicting medical outcomes, or improving HR practices, these projects will help you develop a diverse set of skills applicable to various domains.
