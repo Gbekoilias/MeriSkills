@@ -14,3 +14,18 @@ Meri Skill offers a variety of skills training programs in areas such as sewing,
 In addition to skills training, Meri Skill also provides women and girls with access to markets, financial resources, and other support services. The organization helps them to develop business plans, connect with buyers, and secure loans. Meri Skill also provides women and girls with opportunities to network with other entrepreneurs and learn from each other.
 
 Meri Skill has helped over 10,000 women and girls in India to develop skills, start businesses, and improve their livelihoods. The organization's work has been recognized by the Indian government and other organizations, and it has received numerous awards for its work in women's empowerment.
+
+<h2 align ='center'> About the Internship
+</h2>
+The Meri Skill data analysis internship is a 3-6 month program that provides students and recent graduates with real-world experience in the field of data analysis. Interns will have the opportunity to work on real-time projects, collaborate with experienced professionals, and learn from the latest trends and technologies.
+
+Some of the key tasks that interns can expect to perform include:
+ 
+* Collecting, cleaning, and preparing data
+* Conducting statistical analysis
+* Building and interpreting data models
+* Creating data visualizations
+* Communicating insights to stakeholders
+* Interns will also have the opportunity to learn about the different tools and technologies that are used in data analysis, such as Python, SQL, and Tableau.
+
+The Meri Skill data analysis internship is a great opportunity for students and recent graduates who are interested in pursuing a career in data analysis. The internship will provide them with the skills and experience they need to be successful in this rapidly growing field.
