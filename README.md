@@ -32,6 +32,7 @@ The Meri Skill data analysis internship is a great opportunity for students and 
 
 <h2 align ='center'> Project done in the Internship
 </h2>
+
 **Project 1: Sales Data Analysis**
 
 **Purpose:** 
